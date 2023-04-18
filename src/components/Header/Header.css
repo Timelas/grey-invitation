@@ -197,7 +197,7 @@
 
 @media screen and (max-width: 450px) and (orientation:portrait){
   .header__desctop {
-    gap: 30px;
+    gap: 45px;
     width: 85%;
     justify-content: center;
   }
