@@ -115,7 +115,7 @@
 
 @media screen and (max-width: 800px) {
   .dresscode {
-    padding: 60px 0;
+    padding: 60px 0 70px;
   }
 
   .dresscode__header {
