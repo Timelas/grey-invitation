@@ -189,6 +189,10 @@
   .header__flower {
     display: none;
   }
+
+  .header__date {
+    height: 45vh;
+  }
 }
 
 @media screen and (max-width: 450px) and (orientation:portrait){
